@@ -35,14 +35,6 @@ mêphim là một nền tảng streaming giải trí với giao diện hiện đ
 - **Standard (139k/tháng)**: 1080p, 2 thiết bị
 - **Premium (179k/tháng)**: 4K, 4 thiết bị + download
 
-### 6. **UI/UX hiện đại**
-- Background particles động với 100 particles
-- Smooth animations 60fps với Framer Motion
-- Hover effects giống Netflix (scale + push)
-- Loading skeletons chuyên nghiệp
-- Glass morphism và neon effects
-- Responsive design cho mọi thiết bị
-
 ---
 
 ## 🛠 Tech Stack
